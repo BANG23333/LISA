@@ -14,4 +14,4 @@ Traffic accident forecasting is an important task for intelligent transportation
 - sklearn 1.1.1
 
 # Run LISA using ConvLSTM as base model
-Modify path and Run HeteroConvLSTM.py
+Modify path and Run LisaNet.py
