@@ -15,4 +15,5 @@ Traffic accident forecasting is an important task for intelligent transportation
 
 # Run LISA
 Modify path and Run LisaNet.py
+
 Sample data can be downloaded through [link](https://drive.google.com/file/d/11mFFlVU_pC0xj0yonrZ-bE3wauRI1rqx/view?usp=sharing)
