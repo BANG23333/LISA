@@ -17,3 +17,32 @@ Traffic accident forecasting is an important task for intelligent transportation
 Modify path and Run LisaNet.py
 
 Data can be downloaded through [link](https://drive.google.com/file/d/11mFFlVU_pC0xj0yonrZ-bE3wauRI1rqx/view?usp=sharing)
+
+# Citation
+```
+@article{AnBang2024LLSP,
+abstract = {IEEE International Conference on Data Mining, ICDM 2024 Traffic accident forecasting is an important task for intelligent
+transportation management and emergency response systems. However, this problem
+is challenging due to the spatial heterogeneity of the environment. Existing
+data-driven methods mostly focus on studying homogeneous areas with limited
+size (e.g. a single urban area such as New York City) and fail to handle the
+heterogeneous accident patterns over space at different scales. Recent advances
+(e.g. spatial ensemble) utilize pre-defined space partitions and learn multiple
+models to improve prediction accuracy. However, external knowledge is required
+to define proper space partitions before training models and pre-defined
+partitions may not necessarily reduce the heterogeneity. To address this issue,
+we propose a novel Learning-Integrated Space Partition Framework (LISA) to
+simultaneously learn partitions while training models, where the partitioning
+process and learning process are integrated in a way that partitioning is
+guided explicitly by prediction accuracy rather than other factors. Experiments
+using real-world datasets, demonstrate that our work can capture underlying
+heterogeneous patterns in a self-guided way and substantially improve baseline
+networks by an average of 13.0%.},
+year = {2024},
+title = {LISA: Learning-Integrated Space Partitioning Framework for Traffic Accident Forecasting on Heterogeneous Spatiotemporal Data},
+copyright = {http://arxiv.org/licenses/nonexclusive-distrib/1.0},
+language = {eng},
+author = {An, Bang and Zhou, Xun and Vahedian, Amin and Street, Nick and Guan, Jinping and Luo, Jun},
+keywords = {Computer Science - Learning},
+}
+```
